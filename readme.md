@@ -1,5 +1,6 @@
 # tENDERis3_V2
-Klipper Configuration file for Creality Ender 3 V2 with BIGTREETECH SKR mini E3 v3.0
+
+## Klipper Configuration file for Creality Ender 3 V2 with BIGTREETECH SKR mini E3 v3.0
 
 ### Version 3.2_040823
 
